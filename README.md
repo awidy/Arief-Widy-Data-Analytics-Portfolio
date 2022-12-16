@@ -68,7 +68,7 @@ Hi! My name is Arief Widyaiswara, just called me Widy or Arief. Here is my Portf
   * Business Recommendations based on cluster result
 
 ### Code example:
-[Data Understanding, Data Cleaning, and Making Clustering / Segmentation of Indonesian Platform Start-up on app based mutual fund investment (reksadana)](https://tinyurl.com/Python-AW)
+[Data Understanding, Data Cleaning, and Making Clustering / Segmentation of Indonesian Platform Start-up on app based mutual fund investment (reksadana)](https://github.com/awidy/Arief-Widy-Data-Analytics-Portfolio/blob/44a96185bbfcb1a6ec295febf799f4e653f50233/%5BW6_W8_AUG22%5D_Arief_Widyaiswara_M1_M2.ipynb)
 
 ### Datasets Spreadsheet :
 1. [User's Dataset](https://tinyurl.com/Dataset-Python-AW-1)
