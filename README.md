@@ -1,5 +1,9 @@
 # Arief Widyaiswara - Data Analytics Portfolio
-Hi! My name is Arief Widyaiswara, just called me Widy or Arief. Here is my Portfolio as Data Analyst, please check it out!
+Hi! My name is Arief Widyaiswara, just called me Widy or Arief. You can contact me via: 
+* email: mail.to(awidyaiswara49@gmail.com)
+*social: LinkedIn(https://www.linkedin.com/in/arief-widyaiswara/)
+
+and, here is my Portfolio as Data Analyst, please check it out!
 
 
 ## Understanding Business Problem Skill sets:
